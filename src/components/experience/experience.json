@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_experience_experiences",
+  "info": {
+    "displayName": "Experience",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "enumeration",
+      "enum": [
+        "Management",
+        "Organization",
+        "Wireframing"
+      ]
+    }
+  }
+}
